@@ -1,0 +1,5 @@
+two mobile phone A/B install the demo file: demoRel_TestEnv_app8kj.apk
+mobile A:set the channelID like:1001,uid like 123,and select the Test Environment appid:8kjxxxx
+mobile B:set the channelID like:1001,uid like 124,and select the Test Environment appid:8kjxxxx
+
+then click "enter", you can communicate with each other in the same channelID.
